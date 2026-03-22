@@ -12,7 +12,6 @@ This project focuses on predicting the stock price of **NVIDIA (NVDA)** using hi
 * Collect and preprocess historical stock data
 * Perform exploratory data analysis (EDA)
 * Build predictive models using machine learning
-* Evaluate model performance
 * Visualize actual vs predicted stock prices
 
 ## 🗂️ Project Structure
