@@ -16,8 +16,6 @@ The goal is to build an end-to-end pipeline — from data collection to predicti
 * Evaluate model performance
 * Visualize actual vs predicted stock prices
 
----
-
 ## 🗂️ Project Structure
 
 ```
