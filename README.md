@@ -44,7 +44,6 @@ This project focuses on predicting the stock price of **NVIDIA (NVDA)** using hi
   * Open
   * High
   * Low
-  * Close
   * Volume
   * Date
 
